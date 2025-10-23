@@ -1,8 +1,8 @@
-#**Purrfect Diner** 
+#Purrfect Diner 
 
 A project for UBC's CPSC 210 course
 
-#**Welcome to Purrfect Diner's Game Instructions!** 
+#Welcome to Purrfect Diner's Game Instructions! 
 
 - To start the Game, you can either click New game or Continue game. 
 - Once the game is started, you will see an order on the left side of your screen. 
