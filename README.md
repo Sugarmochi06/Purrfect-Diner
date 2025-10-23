@@ -1,4 +1,5 @@
-**Purrfect Diner**
+**Purrfect Diner** 
+
 A project for UBC's CPSC 210 course
 
 **Welcome to Purrfect Diner's Game Instructions!** 
